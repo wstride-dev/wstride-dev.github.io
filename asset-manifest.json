@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2a4e7862.css",
-    "main.js": "/static/js/main.58759b18.js",
+    "main.js": "/static/js/main.2b67a634.js",
     "static/media/backdrop.jpg": "/static/media/backdrop.c4a6bc51bf6c6cb9904d.jpg",
     "static/media/ford-fiesta-grey.jpg": "/static/media/ford-fiesta-grey.5ebef2b7a70c83753bad.jpg",
     "static/media/audi-a4-grey.jpg": "/static/media/audi-a4-grey.0efe3b6fb11bd9aaaff8.jpg",
@@ -11,10 +11,10 @@
     "index.html": "/index.html",
     "static/media/address-icon.svg": "/static/media/address-icon.f4473a6c54071453c34e.svg",
     "main.2a4e7862.css.map": "/static/css/main.2a4e7862.css.map",
-    "main.58759b18.js.map": "/static/js/main.58759b18.js.map"
+    "main.2b67a634.js.map": "/static/js/main.2b67a634.js.map"
   },
   "entrypoints": [
     "static/css/main.2a4e7862.css",
-    "static/js/main.58759b18.js"
+    "static/js/main.2b67a634.js"
   ]
 }
