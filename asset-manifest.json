@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.09589812.css",
+    "main.css": "/static/css/main.2a4e7862.css",
     "main.js": "/static/js/main.58759b18.js",
     "static/media/backdrop.jpg": "/static/media/backdrop.c4a6bc51bf6c6cb9904d.jpg",
     "static/media/ford-fiesta-grey.jpg": "/static/media/ford-fiesta-grey.5ebef2b7a70c83753bad.jpg",
@@ -10,11 +10,11 @@
     "static/media/phone-icon.svg": "/static/media/phone-icon.210fe9971532981d47fc.svg",
     "index.html": "/index.html",
     "static/media/address-icon.svg": "/static/media/address-icon.f4473a6c54071453c34e.svg",
-    "main.09589812.css.map": "/static/css/main.09589812.css.map",
+    "main.2a4e7862.css.map": "/static/css/main.2a4e7862.css.map",
     "main.58759b18.js.map": "/static/js/main.58759b18.js.map"
   },
   "entrypoints": [
-    "static/css/main.09589812.css",
+    "static/css/main.2a4e7862.css",
     "static/js/main.58759b18.js"
   ]
 }
