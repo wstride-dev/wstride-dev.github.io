@@ -1,22 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.d1aa3062.css",
-    "main.js": "/static/js/main.2594eec2.js",
-    "static/js/453.6d060b8d.chunk.js": "/static/js/453.6d060b8d.chunk.js",
+    "main.css": "/static/css/main.09589812.css",
+    "main.js": "/static/js/main.58759b18.js",
     "static/media/backdrop.jpg": "/static/media/backdrop.c4a6bc51bf6c6cb9904d.jpg",
+    "static/media/ford-fiesta-grey.jpg": "/static/media/ford-fiesta-grey.5ebef2b7a70c83753bad.jpg",
+    "static/media/audi-a4-grey.jpg": "/static/media/audi-a4-grey.0efe3b6fb11bd9aaaff8.jpg",
     "static/media/logo-removebg.png": "/static/media/logo-removebg.00cf32e9e820d2394a4e.png",
     "static/media/email-icon.svg": "/static/media/email-icon.e831a517f75c167630d0.svg",
-    "static/media/instagram-icon.svg": "/static/media/instagram-icon.3a4ebc51e9d3cf112c733646d72a3ff1.svg",
-    "static/media/phone-icon.svg": "/static/media/phone-icon.210fe9971532981d47fc67dd10c326aa.svg",
+    "static/media/phone-icon.svg": "/static/media/phone-icon.210fe9971532981d47fc.svg",
     "index.html": "/index.html",
     "static/media/address-icon.svg": "/static/media/address-icon.f4473a6c54071453c34e.svg",
-    "static/media/fb-icon.svg": "/static/media/fb-icon.445c824f8b5403fb200ea0afcc3a8b40.svg",
-    "main.d1aa3062.css.map": "/static/css/main.d1aa3062.css.map",
-    "main.2594eec2.js.map": "/static/js/main.2594eec2.js.map",
-    "453.6d060b8d.chunk.js.map": "/static/js/453.6d060b8d.chunk.js.map"
+    "main.09589812.css.map": "/static/css/main.09589812.css.map",
+    "main.58759b18.js.map": "/static/js/main.58759b18.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1aa3062.css",
-    "static/js/main.2594eec2.js"
+    "static/css/main.09589812.css",
+    "static/js/main.58759b18.js"
   ]
 }
